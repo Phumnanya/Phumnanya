@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eustace Mbanefo
-- 👀 I’m interested in writing computer systems and coding
+- 👀 I’m interested in computer systems and coding
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me eustace364@gmail.com
