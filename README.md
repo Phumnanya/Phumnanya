@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Eustace Mbanefo
-- 👀 I’m interested in web and software development
-- 🌱 I’m currently learning Software Engineering
+- 👋 Hi, my name is Eustace Mbanefo
+- 👀 I am interested in software development
+- 🌱 I am a certified Software Engineer from ALX
 - 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me; +2348101710392, eustace364@gmail.com
 
