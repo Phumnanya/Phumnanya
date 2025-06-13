@@ -1,4 +1,4 @@
-👨🏽‍💻 Hi, I’m EustaÇe – a frontend enthusiast😊 who flirts with the backend😉.
+👨🏽‍💻 Hi, I’m Eustace Mbanefo – a frontend enthusiast😊 who flirts with the backend😉.
 
 By day, I craft elegant and responsive interfaces with CSS(Bootstrap), JavaScript, React, and Next.js — turning wireframes into wow-frames🤯. By night (or whenever bugs arise), I sneak into the backend world🌚, whispering sweet nothings to Python🐍 and Flask until everything works🌐... or at least doesn’t crash😁.
 
